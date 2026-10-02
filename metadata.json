@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Client Demo Portfolio | Salon, Restaurant & Clinic",
+  "description": "Production-ready 3-in-1 client prototype showcase featuring Barbercrop Salon, Crunch Restaurant, and Evermiles Dental Clinic with modular architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
